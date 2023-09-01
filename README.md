@@ -6,4 +6,4 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ### Amazom Web Scrapper
 
-This is a scrapper to check the price of an item, and send an email in case the price drops. Check [here](https://d). 
+This is a scrapper to check the price of an item, and send an email in case the price drops. Check [here]([https://d](https://github.com/TiagoGOliveira/Portfolio/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)https://github.com/TiagoGOliveira/Portfolio/blob/main/Amazon%20Web%20Scraper%20Project.ipynb). 
