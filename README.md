@@ -1,4 +1,4 @@
-# Data science portfolio by Tiago Guimaraes de Oliveira
+# Data Science Portfolio by Tiago Guimaraes de Oliveira
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
