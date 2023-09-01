@@ -4,6 +4,10 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ## Projects.
 
+### Prediction Machine Learning Models
+
+This is a jupyter code to predict energy generation. Check [here](https://github.com/TiagoGOliveira/Portfolio/blob/main/Machine%20Learning%20Prediction%20Models.ipynb). 
+
 ### Amazom Web Scrapper
 
 This is a scrapper to check the price of an item, and send an email in case the price drops. Check [here](https://github.com/TiagoGOliveira/Portfolio/blob/main/Amazon%20Web%20Scraper%20Project.ipynb). 
