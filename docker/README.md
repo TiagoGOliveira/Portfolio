@@ -5,7 +5,7 @@
 An image with pyodbc for Microsoft SQL Server.
 
 ```sh
-docker pull tiagogoliveira/docker:latest
+docker pull tiagogoliveira/pyodbc-mssql:latest
 ```
 
 ### Testing
@@ -25,9 +25,9 @@ docker-compose up
 Commands for manually publishing the image to Docker Hub:
 
 ```sh
-export dockerHubImage='tiagogoliveira/docker:latest'
+export dockerHubImage='tiagogoliveira/pyodbc-mssql:latest'
 
-docker image build -t docker:latest ./image
+docker image build -t pyodbc-mssql:latest ./image
 docker login --username='<username>'
 docker tag '<image_id>' $dockerHubImage
 docker push $dockerHubImage
